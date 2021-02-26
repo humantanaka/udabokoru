@@ -1,1 +1,19 @@
+@charset "UTF-8";
 
+
+body{
+    font-size:16px;
+    line-height: 1.5;
+    color:#424242;    
+    font-family: 'Roboto', "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "游ゴシック", YuGothic,'Meiryo UI',Meiryo,"ＭＳ ゴシック",Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+.outer{
+    padding: 80px 0;
+}
+
+.title{
+    font-size: 50px;
+    font-weight: bold;
+}
